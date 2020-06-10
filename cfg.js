@@ -1,6 +1,5 @@
 $(document ).ready(function(){
 // We need to use jQuery for the following:
-alert("please upvote if you like the game.please enter your names because it is a two player game")
 var player1 = prompt("enter your name and your color is bl")
 var player1Color = "rgba(86, 151, 255,1)";
 

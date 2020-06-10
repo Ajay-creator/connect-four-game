@@ -1,0 +1,33 @@
+
+    @import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap');
+body {
+text-align:center;
+background:#40615d;
+}
+table{
+margin:auto;
+}
+input{
+height:50px;
+width:50px;
+background:white;
+border:2px solid black;
+padding:0px;
+margin:0px;
+border-radius:50%;
+}
+h1{
+color:#03fc98;
+font-family:'Girassol', cursive;;
+}
+h3{
+color:orange;
+font-family: 'Caveat', cursive;
+font-size:25px;
+}
+form{
+  height:500px;
+  width:500px;
+  
+}
